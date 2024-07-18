@@ -1897,16 +1897,16 @@ Step-4) Configure Hyperlinks in app.component.html file like below
 Step-5) Create Presentation logics in component tempaltes
 
 --------------------home.component.html--------------------------------
-<p>Welcome To Ashok IT - Software Training</p>
+<p>Welcome To Snehasis P - Software Training</p>
 
 ----------------------contact.component.html--------------------------
 <p>Please Contact Us : + 91 - 9985 39 66 77 For Online Training</p>
 
 -------------------- about.component.html-------------------------------
-<p>Ashok IT Software Training Institute started in 2020</p>
+<p>Snehasis P Software Training Institute started in 2020</p>
 
 -------------------- services.component.html-------------------------------
-<p>Ashok IT offering Classroom & Online Trainings..</p>
+<p>Snehasis P offering Classroom & Online Trainings..</p>
 
 --------------------------------------------------------------------
 
